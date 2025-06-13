@@ -1,7 +1,7 @@
 # [main-educational.github.io](https://main-educational.github.io)
 
 This is an archive of the 2024 website of the educational workshop of the Montreal Artificial Intelligence and Neuroscience (MAIN) conference.
-The website is built with the [jupyter book](https://jupyterbook.org/) project, and deployed using github.
+The website is built with the [jupyter book](https://jupyterbook.org/) project, and deployed using github pages.
 
 ### Build the book locally
 - Clone this repository
