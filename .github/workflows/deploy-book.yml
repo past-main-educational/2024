@@ -38,5 +38,5 @@ jobs:
         uses: peaceiris/actions-gh-pages@v4
         with:
           external_repository: past-main-educational/2024
-          github_token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
+          personal_token: ${{ secrets.GH_PAGES_DEPLOY_TOKEN }}
           publish_dir: content/_build/html
