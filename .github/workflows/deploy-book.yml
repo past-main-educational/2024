@@ -32,7 +32,7 @@ jobs:
 
       - name: Build the book
         run: |
-          jupyter-book build content/
+          jb build content/
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v4
